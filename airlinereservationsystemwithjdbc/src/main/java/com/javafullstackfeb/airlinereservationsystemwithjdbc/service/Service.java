@@ -29,7 +29,6 @@ public interface Service {
 	List<FlightDetails> getFlightDetailsInUser();
 	BookingStatus requestBook(BookingStatus status);
 	boolean cancelTicket(int userId);
-	List<BookingStatus> getTicketDetails(int userId);
 	
 	
 	//**************Service Validations ********************//

@@ -39,7 +39,5 @@ public interface Dao {
 	
 	boolean cancelTicket(int userId);
 	
-    List<BookingStatus> getTicketDetails(int userId);
-
 }
 

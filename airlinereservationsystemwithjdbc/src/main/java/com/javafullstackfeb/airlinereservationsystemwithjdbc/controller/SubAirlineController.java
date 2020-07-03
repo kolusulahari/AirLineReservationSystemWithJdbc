@@ -434,7 +434,7 @@ public static void arsController() {
 											List<BookingStatus> booking = service.bookingStatus();
 											for (BookingStatus request : booking) {
 												if (request != null) {
-													log.info(request.getFlightId()+"     "+request.getId()+"     "+request.getNoofseatsbooked());
+													log.info(request.getTicketId()+"     "+  request.getFlightId()+"     "+request.getId()+"     "+request.getNoofseatsbooked());
 												} else {
 													log.info("Request not found in booking status");
 												}
@@ -470,9 +470,8 @@ public static void arsController() {
 									log.info("3.   Search Flight By Name");
 									log.info("4.   View All Flight Details");
 									log.info("5.   Book The Flight");
-									log.info("6.   Ticket Details");
-									log.info("7.   Cancel The Tickets");
-									log.info("8.   Logout");
+									log.info("6.   Cancel The Tickets");
+									log.info("7.   Logout");
 									int choice2 = scanner.nextInt();
 									switch(choice2) {
 									case 1:
@@ -552,21 +551,22 @@ public static void arsController() {
 											FlightDetails flightDetails1 = new FlightDetails();
 											flightDetails1.setFlightId(flightId2);
 											log.info("Enter No of seats : ");
-//											int bookingId = (int) (Math.random() * 10000);
-//											if (bookingId <= 1000) {
-//												bookingId = bookingId + 1000;
-//											}
+											int bookingId = (int) (Math.random() * 10000);
+											if (bookingId <= 1000) {
+												bookingId = bookingId + 1000;
+											}
 											int seats = scanner.nextInt();
 											BookingStatus bookingStatus = new BookingStatus();
+											bookingStatus.setTicketId(bookingId);
 											bookingStatus.setId(userId2);
 											bookingStatus.setFlightId(flightId2);
 											bookingStatus.setNoofseatsbooked(seats);
-//											bookingStatus.setTicketId(bookingId);
+											
 											try {
 												
 												BookingStatus request = service.requestBook(bookingStatus);
 												log.info("Request placed to Airline Management ");
-												log.info(request.getFlightId()+"   "+request.getId()+"   "+request.getNoofseatsbooked());
+												log.info(request.getTicketId()+"    "+ request.getFlightId()+"   "+request.getId()+"   "+request.getNoofseatsbooked());
 														
 											} catch (Exception e) {
 												log.info("Invalid Request of booking");
@@ -578,27 +578,8 @@ public static void arsController() {
 											log.info("Invalid request");
 										}
 										break;
-									case 6:
-										log.info("Enter User Id To Find Ticket Details");
-										try {
-											int userId = scanner.nextInt();
-											List<BookingStatus> ticket = service.getTicketDetails(userId);
-											for (BookingStatus request : ticket) {
-												if (request != null) {
-													log.info(request.getFlightId()+"   "+request.getId()+"   "+request.getNoofseatsbooked());
-												} else {
-													log.info("Request not found in booking status");
-												}
-											}
-										} catch (InputMismatchException e) {
-											log.error("Invalid entry valid Id");
-											scanner.nextLine();
-										} catch (AirlineException e) {
-											log.info(e.getMessage());
-										}
-										break;
 										
-									case 7:
+									case 6:
 										log.info("Enter User Id To Cancel The Ticket ");
 										try {
 											int userId = scanner.nextInt();
@@ -622,7 +603,7 @@ public static void arsController() {
 											log.info(e.getMessage());
 										}
 										break;
-									case 8:
+									case 7:
 										log.info("Logged Out Successfullyyyyyyyyyy.....!!!");
 										arsController();
 									

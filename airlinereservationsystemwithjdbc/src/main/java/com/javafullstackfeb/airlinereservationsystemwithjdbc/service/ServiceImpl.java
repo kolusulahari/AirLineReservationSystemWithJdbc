@@ -82,15 +82,6 @@ public class ServiceImpl implements Service{
 		}
 		return false;
 	}
-
-	@Override
-	public List<BookingStatus> getTicketDetails(int userId) {
-		if(validation.idValidation(userId)) {
-		return daoRef.getTicketDetails(userId);
-		}
-		return null;
-	}
-
 	
 	//************************ Service Validation *********************//
 	

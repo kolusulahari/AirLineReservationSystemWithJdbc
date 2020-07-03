@@ -101,7 +101,7 @@ public class DaoImpl implements Dao {
 				info.setFlightId(resultSet.getInt("flight_id"));
 				info.setId(resultSet.getInt("id"));
 				info.setNoofseatsbooked(resultSet.getInt("no_of_seats_booked"));
-//				info.setTicketId(resultSet.getInt("ticket_id"));
+				info.setTicketId(resultSet.getInt("ticket_id"));
 				
 				bookingList.add(info);
 			}
@@ -272,9 +272,11 @@ public class DaoImpl implements Dao {
 										try (
 											Connection conn1 = utility.getConnection();
 											PreparedStatement getRequestPstmt = conn1.prepareStatement(utility.getQuery("requestBooked"));){
-											getRequestPstmt.setInt(1, status.getId());
-											getRequestPstmt.setInt(2, status.getFlightId());
-											getRequestPstmt.setInt(3, status.getNoofseatsbooked());
+											getRequestPstmt.setInt(1, status.getTicketId());
+											getRequestPstmt.setInt(2, status.getId());
+											getRequestPstmt.setInt(3, status.getFlightId());
+											getRequestPstmt.setInt(4, status.getNoofseatsbooked());
+											
 											getRequestPstmt.executeUpdate();
 											
 											return status;
@@ -315,35 +317,10 @@ public class DaoImpl implements Dao {
 			throw new AirlineException(e.getMessage());
 
 		}
-		throw new  AirlineException("Successfully Cancelled Your Ticket...!!");
+		return true;
 	
 	}
 
-	@Override
-	public List<BookingStatus> getTicketDetails(int userId) {
-		List<BookingStatus> tickets = new ArrayList<BookingStatus>();
-		try (Connection connection =utility.getConnection();
-				PreparedStatement myStmt = connection.prepareStatement(utility.getQuery("ticketdetails"));) {
-			myStmt.setInt(1, userId);
-		ResultSet	rs = myStmt.executeQuery();
-			while (rs.next()) {
-				BookingStatus ticketBean1 = new BookingStatus();
-				ticketBean1.setId(rs.getInt("id"));
-				ticketBean1.setFlightId(rs.getInt("flight_id"));
-				ticketBean1.setNoofseatsbooked(rs.getInt("noofseatsbooked"));
-//				ticketBean1.setTicketId(rs.getInt("ticket_id"));
-				tickets.add(ticketBean1);
-			}
-			if (tickets.isEmpty()) {
-				throw new AirlineException("No Ticket Found with that user Id");
-			} else {
-				return tickets;
-			}
-		} catch (Exception e) {
-			e.getMessage();
-			throw new AirlineException("No tickets with this userid");
-		}
-	}
 // ******************* Register And Login *********************//
 	@Override
 	public boolean register(AirlineUsers airlineRegister) {

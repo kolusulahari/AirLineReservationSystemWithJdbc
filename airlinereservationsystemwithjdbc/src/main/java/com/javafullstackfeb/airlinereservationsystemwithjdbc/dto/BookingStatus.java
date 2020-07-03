@@ -8,6 +8,7 @@ import lombok.Data;
 @Data
 public class BookingStatus implements Serializable{
 	
+	private int ticketId;
 	private int id;
 	private int flightId;
 	private int noofseatsbooked;
