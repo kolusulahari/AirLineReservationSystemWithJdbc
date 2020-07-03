@@ -434,7 +434,12 @@ public static void arsController() {
 											List<BookingStatus> booking = service.bookingStatus();
 											for (BookingStatus request : booking) {
 												if (request != null) {
-													log.info(request.getTicketId()+"     "+  request.getFlightId()+"     "+request.getId()+"     "+request.getNoofseatsbooked());
+													log.info("-----------------------------------------");
+													log.info("TICKET ID  ---->  "+request.getTicketId());
+													log.info("FLIGHT ID  ---->  "+request.getFlightId());
+													log.info("USER ID    ---->  "+request.getId());
+													log.info("SEATS BOOKED -->  "+request.getNoofseatsbooked());
+													
 												} else {
 													log.info("Request not found in booking status");
 												}
@@ -566,7 +571,11 @@ public static void arsController() {
 												
 												BookingStatus request = service.requestBook(bookingStatus);
 												log.info("Request placed to Airline Management ");
-												log.info(request.getTicketId()+"    "+ request.getFlightId()+"   "+request.getId()+"   "+request.getNoofseatsbooked());
+												log.info("Booking Successfull");
+												log.info("TICKET ID  ---->  "+request.getTicketId());
+												log.info("FLIGHT ID  ---->  "+request.getFlightId());
+												log.info("USER ID    ---->  "+request.getId());
+												log.info("SEATS BOOKED -->  "+request.getNoofseatsbooked());
 														
 											} catch (Exception e) {
 												log.info("Invalid Request of booking");
