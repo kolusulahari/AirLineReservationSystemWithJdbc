@@ -1,0 +1,2473 @@
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+ID should consist of only digits
+Enter ID : 
+Enter Your Name : 
+Invalid Name! Name should have atleast 4 characters
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Enter Type Of User :
+Password should contain atleast 6 characters ,one uppercase,one lowercase,one number,one special symbol(@#$%) 
+Enter Type Of User :
+Password should contain atleast 6 characters ,one uppercase,one lowercase,one number,one special symbol(@#$%) 
+Enter Type Of User :
+Password should contain atleast 6 characters ,one uppercase,one lowercase,one number,one special symbol(@#$%) 
+Enter Type Of User :
+Password should contain atleast 6 characters ,one uppercase,one lowercase,one number,one special symbol(@#$%) 
+Enter Type Of User :
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Enter Type Of User :
+Enter admin  as role 
+Enter Type Of User :
+Enter admin  as role 
+Enter Type Of User :
+Invalid Id! Id should contain exactly 4 positive digits
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Enter Type Of User :
+Invalid Id! Id should contain exactly 4 positive digits
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Enter Type Of User :
+This Admin Credentials Already Exists
+1. Admin Registration
+2. Admin Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Enter Type Of User :
+This Admin Credentials Already Exists
+1. Admin Registration
+2. Admin Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Enter Your Name : 
+Invalid Name! Name should have atleast 4 characters
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Enter Type Of User :
+This Admin Credentials Already Exists
+1. Admin Registration
+2. Admin Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Enter Your Name : 
+Invalid Name! Name should have atleast 4 characters
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter a mobile number whose length is 10 digits and should start with 6,7,8,9 digits only
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Enter Type Of User :
+Invalid Id! Id should contain exactly 4 positive digits
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Enter Type Of User :
+You have registered Successfully
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Enter FlightID to add : 
+Enter FlightName : 
+Enter Source : 
+Enter Destination : 
+Enter No.of seat Available in the Flight : 
+Enter  Flight Arrival Date  : 
+Enter  Flight Arrival Time : 
+Enter  Flight departure Date  : 
+Enter  Flight departure Time : 
+This Flight Credentials Already Exists
+1. Admin Registration
+2. Admin Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Enter Type Of User :
+Enter admin  as role 
+Enter Type Of User :
+You have registered Successfully
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Enter FlightID to add : 
+Enter FlightName : 
+Enter Source : 
+Enter Destination : 
+Enter No.of seat Available in the Flight : 
+Enter  Flight Arrival Date  : 
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Enter FlightID to add : 
+Enter FlightName : 
+Enter Source : 
+Enter Destination : 
+Enter No.of seat Available in the Flight : 
+Enter  Flight Arrival Date  : 
+Enter  Flight Arrival Time : 
+Enter  Flight departure Date  : 
+Enter  Flight departure Time : 
+This Flight Credentials Already Exists
+1. Admin Registration
+2. Admin Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Enter FlightID to add : 
+Enter FlightName : 
+Enter Source : 
+Enter Destination : 
+Enter No.of seat Available in the Flight : 
+Enter  Flight Arrival Date  : 
+Enter  Flight Arrival Time : 
+Enter  Flight departure Date  : 
+Enter  Flight departure Time : 
+Flight added of id = 2000
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Enter Type Of User :
+This Admin Credentials Already Exists
+1. Admin Registration
+2. Admin Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Invalid Login Credentials, Please Enter Correctly
+1. Admin Registration
+2. Admin Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Remove Flight 
+Enter Flight Id
+Invalid Id! Id should contain exactly 4 positive digits
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Remove Flight 
+Enter Flight Id
+Cannot Find Any Flight With this Id
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Remove Flight 
+Enter Flight Id
+The Flight is removed of Id = 2000
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+No Flight Present in the Airline
+1. Admin Registration
+2. Admin Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter proper email such that it should consist of numbers and alphabets
+Enter Email to Register : 
+Enter Password :
+Enter Type Of user :
+Enter user as role 
+Enter Type Of user :
+Enter admin  as role 
+1. User Register
+2. User Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter proper email such that it should consist of numbers and alphabets
+Enter Email to Register : 
+Enter Password :
+Enter Type Of user :
+Enter user as role 
+Enter Type Of user :
+Enter admin  as role 
+1. User Register
+2. User Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Enter FlightID to add : 
+Enter FlightName : 
+Enter Source : 
+Enter Destination : 
+Enter No.of seat Available in the Flight : 
+Enter  Flight Arrival Date  : 
+Enter  Flight Arrival Time : 
+Enter  Flight departure Date  : 
+Enter  Flight departure Time : 
+Flight added of id = 2000
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Enter Type Of user :
+Enter user as role 
+Enter Type Of user :
+Enter admin  as role 
+1. User Register
+2. User Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Enter Type Of user :
+Enter user as role 
+Enter Type Of user :
+Registered Successfully
+1. User Register
+2. User Login
+3. Exit
+Enter registered email  : 
+Enter registered Password : 
+Enter proper email such that it should consist of numbers and alphabets
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter registered email  : 
+Enter registered Password : 
+Invalid Login Credentials, Please Enter Correctly
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter registered email  : 
+Enter registered Password : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search Flight Details by Source : 
+Column 'noofseatavailable' not found.
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Enter FlightID to add : 
+Enter FlightName : 
+Enter Source : 
+Enter Destination : 
+Enter No.of seat Available in the Flight : 
+Enter  Flight Arrival Date  : 
+Enter  Flight Arrival Time : 
+Enter  Flight departure Date  : 
+Enter  Flight departure Time : 
+Flight added of id = 2001
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Column 'noofseatavailable' not found.
+1. Admin Registration
+2. Admin Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Logged Out Successfully....!!!
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter registered email  : 
+Enter registered Password : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search Flight Details by Source : 
+Cannot find any Flight With This Source
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search Flight Details by Source : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search flight by Destination : 
+Cannot find any Flight With This Destination
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Invalid entry please provide only positive integer
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search flight by Destination : 
+Cannot find any Flight With This Destination
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search flight by Destination : 
+Cannot find any Flight With This Destination
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Invalid entry please provide only positive integer
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search flight by Destination : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+ Search Flight by Name : 
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Requested to Airline Management 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Enter FlightID to add : 
+Enter FlightName : 
+Enter Source : 
+Enter Destination : 
+Enter No.of seat Available in the Flight : 
+Enter  Flight Arrival Date  : 
+its should be in the form of yyyy,mm,dd only in digits
+Enter  Flight Arrival Date  : 
+Enter  Flight Arrival Time : 
+Enter  Flight departure Date  : 
+Enter  Flight departure Time : 
+Flight added of id = 2002
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+2002       Indigo        Chennai   to    Hyderabad        2020-08-01        08:00:00      2020-08-01     10:00:00    10(Seats Available)
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Logged Out Successfully....!!!
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter registered email  : 
+Enter registered Password : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+2002       Indigo        Chennai   to    Hyderabad        2020-08-01        08:00:00      2020-08-01     10:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+ Search Flight by Name : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search Flight Details by Source : 
+2002       Indigo        Chennai   to    Hyderabad        2020-08-01        08:00:00      2020-08-01     10:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search flight by Destination : 
+2002       Indigo        Chennai   to    Hyderabad        2020-08-01        08:00:00      2020-08-01     10:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+3. Search Flight By Source
+4. Search Flight By Destination
+5. Search Flight By Name
+6. View All Flight Details
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+3. Search Flight By Source
+4. Search Flight By Destination
+5. Search Flight By Name
+6. View All Flight Details
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+3. Search Flight By Source
+4. Search Flight By Destination
+5. Search Flight By Name
+6. View All Flight Details
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+3. Search Flight By Source
+4. Search Flight By Destination
+5. Search Flight By Name
+6. View All Flight Details
+Invalid entry please provide only positive integer
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+3. Search Flight By Source
+4. Search Flight By Destination
+5. Search Flight By Name
+6. View All Flight Details
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+3. Search Flight By Source
+4. Search Flight By Destination
+5. Search Flight By Name
+6. View All Flight Details
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Admin Page
+6. User Page
+Search Flight Details by Source : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Admin Page
+6. User Page
+Search flight by Destination : 
+2002       Indigo        Chennai   to    Hyderabad        2020-08-01        08:00:00      2020-08-01     10:00:00    10(Seats Available)
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Admin Page
+6. User Page
+ Search Flight by Name : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Admin Page
+6. User Page
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+2002       Indigo        Chennai   to    Hyderabad        2020-08-01        08:00:00      2020-08-01     10:00:00    10(Seats Available)
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Admin Page
+6. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Enter proper email such that it should consist of numbers and alphabets
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+ID should consist of only digits
+Enter ID : 
+ID should consist of only digits
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Enter Type Of User :
+This Admin Credentials Already Exists
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+2002       Indigo        Chennai   to    Hyderabad        2020-08-01        08:00:00      2020-08-01     10:00:00    10(Seats Available)
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Logged Out Successfully....!!!
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Admin Page
+6. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter registered email  : 
+Enter registered Password : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search Flight Details by Source : 
+Cannot find any Flight With This Source
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search Flight Details by Source : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search flight by Destination : 
+Cannot find any Flight With This Destination
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search flight by Destination : 
+2002       Indigo        Chennai   to    Hyderabad        2020-08-01        08:00:00      2020-08-01     10:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+ Search Flight by Name : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Logged Out Successfully......!!!
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Admin Page
+6. User Page
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Search Flight Details by Source : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Search Flight Details by Source : 
+Invalid Source! Source should have atleast 4 characters
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Search Flight Details by Source : 
+Cannot find any Flight With This Source
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Search flight by Destination : 
+Cannot find any Flight With This Destination
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Search flight by Destination : 
+2002       Indigo        Chennai   to    Hyderabad        2020-08-01        08:00:00      2020-08-01     10:00:00    10(Seats Available)
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+ Search Flight by Name : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+ Search Flight by Name : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+2002       Indigo        Chennai   to    Hyderabad        2020-08-01        08:00:00      2020-08-01     10:00:00    10(Seats Available)
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter Name to Register : 
+Enter MobileNumber to Register : 
+Enter Email to Register : 
+Enter Password :
+Invalid Name! Name should have atleast 4 characters
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter Name to Register : 
+Enter MobileNumber to Register : 
+Enter Email to Register : 
+Enter Password :
+Enter proper email such that it should consist of numbers and alphabets
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter Name to Register : 
+Enter MobileNumber to Register : 
+Enter Email to Register : 
+Enter Password :
+Enter proper email such that it should consist of numbers and alphabets
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter ID : 
+ID should consist of only digits
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter proper email such that it should consist of numbers and alphabets
+Enter Email to Register : 
+Enter proper email such that it should consist of numbers and alphabets
+Enter Email to Register : 
+Enter proper email such that it should consist of numbers and alphabets
+Enter Email to Register : 
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter Password :
+Password should contain atleast 6 characters ,one uppercase,one lowercase,one number,one special symbol(@#$%) 
+Enter Password :
+Registered Successfully
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.    Book The Flight
+7.   Logout
+Search Flight Details by Source : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.    Book The Flight
+7.   Logout
+Search flight by Destination : 
+Cannot find any Flight With This Destination
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.    Book The Flight
+7.   Logout
+Search flight by Destination : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.    Book The Flight
+7.   Logout
+ Search Flight by Name : 
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.    Book The Flight
+7.   Logout
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+2002       Indigo        Chennai   to    Hyderabad        2020-08-01        08:00:00      2020-08-01     10:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.    Book The Flight
+7.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.    Book The Flight
+7.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Password should contain atleast 6 characters ,one uppercase,one lowercase,one number,one special symbol(@#$%) 
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+2002       Indigo        Chennai   to    Hyderabad        2020-08-01        08:00:00      2020-08-01     10:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Into try
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Invalid Login Credentials, Please Enter Correctly or Register
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Into try
+Inside Service
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Into try
+Inside Service
+Inside try
+Inside status
+Inside ResultSet
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Into try
+Inside Service
+Inside try
+Inside flightid
+Inside ResultSet
+requesting
+Request placed to Airline Management 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Into try
+Inside Service
+Inside try
+Inside flightid
+Inside ResultSet
+Inside while
+getting flightid
+Inside if
+Inside try
+Inside userid
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Into try
+Inside Service
+Inside try
+Inside flightid
+Inside ResultSet
+Inside while
+getting flightid
+Inside if
+Inside try
+Inside userid
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Into try
+Inside Service
+Inside try
+Inside flightid
+Inside ResultSet
+Inside while
+getting flightid
+Inside if
+Inside try
+Inside userid
+Inside result
+Inside while
+getting userid
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Into try
+Inside Service
+Inside try
+Inside flightid
+Inside ResultSet
+Inside while
+getting flightid
+Inside if
+Inside try
+Inside userid
+Inside result
+Inside while
+getting userid
+Inside if
+requesting
+Request placed to Airline Management 
+2000   1000   1
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+2002       Indigo        Chennai   to    Hyderabad        2020-08-01        08:00:00      2020-08-01     10:00:00    10(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Inside Service
+Request placed to Airline Management 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Inside Service
+Request placed to Airline Management 
+2001   3001   1
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Invalid Login Credentials, Please Enter Correctly or Register
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Invalid Login Credentials, Please Enter Correctly or Register
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Booking Status 
+5.   Logout
+Enter FlightID to add : 
+Enter FlightName : 
+Enter Source : 
+Enter Destination : 
+Enter No.of seat Available in the Flight : 
+Enter  Flight Arrival Date  : 
+Enter  Flight Arrival Time : 
+Enter  Flight departure Date  : 
+Enter  Flight departure Time : 
+Flight added of id = 2003
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Booking Status 
+5.   Logout
+Remove Flight 
+Enter Flight Id
+The Flight is removed of Id = 2002
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Booking Status 
+5.   Logout
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+2003       SpiceJet        Chennai   to    Banglore        2020-12-31        21:00:00      2020-12-31     23:00:00    25(Seats Available)
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Booking Status 
+5.   Logout
+2000     1000     1
+2001     3001     1
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Booking Status 
+5.   Logout
+Logged Out Successfullyyyyyyyyyy.....!!!
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter ID : 
+Enter Your Name : 
+Enter Your MobileNumber : 
+Mobile Number  should consists of only numbers
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter proper email such that it should consist of numbers and alphabets
+Enter Email to Register : 
+Enter proper email such that it should consist of numbers and alphabets
+Enter Email to Register : 
+Enter proper email such that it should consist of numbers and alphabets
+Enter Email to Register : 
+Enter Password :
+Registered Successfully
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+baba
+Request placed to Airline Management 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Find Ticket Details
+No tickets with this userid
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Find Ticket Details
+No tickets with this userid
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Find Ticket Details
+No tickets with this userid
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter Ticket Id To Cancel
+Invalid Id! Id should contain exactly 4 positive digits
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Enter proper email such that it should consist of numbers and alphabets
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+2003       SpiceJet        Chennai   to    Banglore        2020-12-31        21:00:00      2020-12-31     23:00:00    25(Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+2000   1000   3
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Cancel The Ticket 
+User Id is not Present in the Airline Reservation System
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Logged Out Successfullyyyyyyyyyy.....!!!
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+2000   1000   3
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Cancel The Ticket 
+User Id is not Present in the Airline Reservation System
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+2000   1000   2
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Cancel The Ticket 
+User Id is not Present in the Airline Reservation System
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Find Ticket Details
+No tickets with this userid
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+2000   1000   1
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Find Ticket Details
+No tickets with this userid
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Find Ticket Details
+No tickets with this userid
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Cancel The Ticket 
+User Id is not Present in the Airline Reservation System
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+2001   1000   5
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Find Ticket Details
+No tickets with this userid
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Cancel The Ticket 
+User Id is not Present in the Airline Reservation System
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
