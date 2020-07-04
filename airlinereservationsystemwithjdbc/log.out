@@ -2471,3 +2471,463 @@ User Id is not Present in the Airline Reservation System
 4. View All Flight Details
 5. Register
 6. Login
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+2000   1000   4
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+2001   1000   5
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Find Ticket Details
+No tickets with this userid
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Cancel The Ticket 
+Successfully Cancelled Your Ticket...!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+2000   1000   1
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+2001   1000   5
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Find Ticket Details
+No tickets with this userid
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+2003       SpiceJet        Chennai   to    Banglore        2020-12-31        21:00:00      2020-12-31     23:00:00    25(Seats Available)
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+5706    2000   1000   2
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Cancel The Ticket 
+The Cancel user Id = 5706
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+1555    2000   1000   3
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Enter User Id To Find Ticket Details
+No tickets with this userid
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Ticket Details
+7.   Cancel The Tickets
+8.   Logout
+Logged Out Successfullyyyyyyyyyy.....!!!
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Booking Status 
+5.   Logout
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+2001       AirAsia        Vizag   to    Hyderabd        2020-12-01        08:00:00      2020-12-01     10:00:00    20(Seats Available)
+2003       SpiceJet        Chennai   to    Banglore        2020-12-31        21:00:00      2020-12-31     23:00:00    25(Seats Available)
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Booking Status 
+5.   Logout
+1555     2000     1000     3
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Booking Status 
+5.   Logout
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Cancel The Tickets
+7.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+Booking Successfull
+Invalid Request of booking
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Cancel The Tickets
+7.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Request placed to Airline Management 
+Booking Successfull
+TICKET ID  ---->  1068
+FLIGHT ID  ---->  2000
+USER ID    ---->  1000
+SEATS BOOKED -->  5
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Cancel The Tickets
+7.   Logout
+Enter User Id To Cancel The Ticket 
+Invalid Id! Id should contain exactly 4 positive digits
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Cancel The Tickets
+7.   Logout
+Enter User Id To Cancel The Ticket 
+The Cancel user Id = 9632
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Cancel The Tickets
+7.   Logout
+Enter User Id To Cancel The Ticket 
+Invalid Id! Id should contain exactly 4 positive digits
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Cancel The Tickets
+7.   Logout
+Logged Out Successfullyyyyyyyyyy.....!!!
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Search Flight Details by Source : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Search flight by Destination : 
+Cannot find any Flight With This Destination
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+ Search Flight by Name : 
+Invalid Name! Name should have atleast 4 characters
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+ Search Flight by Name : 
+2000       Indigo        Vizag   to    Banglore        2020-07-08        09:00:00      2020-07-08     11:00:00    10(Seats Available)
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+************* Welcome To Airline Reservation System *************
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login
+Search flight by Destination : 
+Cannot find any Flight With This Destination
+1. Search Flight By Source
+2. Search Flight By Destination
+3. Search Flight By Name
+4. View All Flight Details
+5. Register
+6. Login

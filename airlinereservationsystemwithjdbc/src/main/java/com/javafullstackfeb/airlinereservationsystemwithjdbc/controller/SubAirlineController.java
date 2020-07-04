@@ -39,9 +39,10 @@ public static void arsController() {
     Service service =AirlineFactory.getServiceImplInstance();
 		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
+		log.info("************* Welcome To Airline Reservation System *************");
 		do {
 			try {
-				log.info("************* Welcome To Airline Reservation System *************");
+				
 				log.info("1. Search Flight By Source");
 				log.info("2. Search Flight By Destination");
 				log.info("3. Search Flight By Name");
@@ -571,7 +572,7 @@ public static void arsController() {
 												
 												BookingStatus request = service.requestBook(bookingStatus);
 												log.info("Request placed to Airline Management ");
-												log.info("Booking Successfull");
+												
 												log.info("TICKET ID  ---->  "+request.getTicketId());
 												log.info("FLIGHT ID  ---->  "+request.getFlightId());
 												log.info("USER ID    ---->  "+request.getId());
@@ -589,12 +590,12 @@ public static void arsController() {
 										break;
 										
 									case 6:
-										log.info("Enter User Id To Cancel The Ticket ");
+										log.info("Enter Ticket Id To Cancel The Ticket ");
 										try {
 											int userId = scanner.nextInt();
 											service.cancelTicket(userId);
 											if (userId == 0) {
-												log.info("Please Enter the Valid User Id");
+												log.info("Please Enter the Valid Ticket Id");
 											} else {
 												BookingStatus book = new BookingStatus();
 												book.setId(userId);

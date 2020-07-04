@@ -21,23 +21,23 @@ public class DaoImpl implements Dao {
 // ************************Admin Operations ***************//
 	@Override
 	public boolean addingFlights(FlightDetails flightDetails) {
-		try (Connection conn = utility.getConnection();
-				PreparedStatement pstmt = conn.prepareStatement(utility.getQuery("addFlight"));) {
-			pstmt.setInt(1, flightDetails.getFlightId());
-			pstmt.setString(2, flightDetails.getFlightName());
-			pstmt.setString(3, flightDetails.getSource());
-			pstmt.setString(4, flightDetails.getDestination());
-			pstmt.setInt(5, flightDetails.getNoofseatsavailable());
-			pstmt.setDate(6, java.sql.Date.valueOf(flightDetails.getArrivalDate()));
-			pstmt.setTime(7, java.sql.Time.valueOf(flightDetails.getArrivalTime()));
-			pstmt.setDate(8, java.sql.Date.valueOf(flightDetails.getDepartureDate()));
-			pstmt.setTime(9, java.sql.Time.valueOf(flightDetails.getDepartureTime()));
+		try (Connection connect = utility.getConnection();
+				PreparedStatement preparedStatement = connect.prepareStatement(utility.getQuery("addFlight"));) {
+			preparedStatement.setInt(1, flightDetails.getFlightId());
+			preparedStatement.setString(2, flightDetails.getFlightName());
+			preparedStatement.setString(3, flightDetails.getSource());
+			preparedStatement.setString(4, flightDetails.getDestination());
+			preparedStatement.setInt(5, flightDetails.getNoofseatsavailable());
+			preparedStatement.setDate(6, java.sql.Date.valueOf(flightDetails.getArrivalDate()));
+			preparedStatement.setTime(7, java.sql.Time.valueOf(flightDetails.getArrivalTime()));
+			preparedStatement.setDate(8, java.sql.Date.valueOf(flightDetails.getDepartureDate()));
+			preparedStatement.setTime(9, java.sql.Time.valueOf(flightDetails.getDepartureTime()));
 			
 
-			pstmt.executeUpdate();
+			preparedStatement.executeUpdate();
 
 		} catch (Exception e) {
-			throw new AirlineException("This Flight Credentials Already Exists");
+			throw new AirlineException("This Flight Already Exists");
 		}
 		return true;
 	}
@@ -45,10 +45,10 @@ public class DaoImpl implements Dao {
 	@Override
 	public boolean deletingFlight(int flightId) {
 		try { 
-				Connection conn = utility.getConnection();
-				PreparedStatement pstmt = conn.prepareStatement(utility.getQuery("removeFlight"));
-			pstmt.setInt(1, flightId);
-			int result = pstmt.executeUpdate();
+				Connection connect = utility.getConnection();
+				PreparedStatement preparedStatement = connect.prepareStatement(utility.getQuery("removeFlight"));
+			preparedStatement.setInt(1, flightId);
+			int result = preparedStatement.executeUpdate();
 			if (result != 0) {
 				return true;
 			}
@@ -62,28 +62,28 @@ public class DaoImpl implements Dao {
 
 	@Override
 	public List<FlightDetails> getFlightDetails() {
-		List<FlightDetails> flightList = new ArrayList<FlightDetails>();
-		try (Connection conn = utility.getConnection();
-				Statement stmt = conn.createStatement();
-				ResultSet resultSet = stmt.executeQuery(utility.getQuery("showFlights"))) {
+		List<FlightDetails> listOfFlights = new ArrayList<FlightDetails>();
+		try (Connection connect = utility.getConnection();
+				Statement statement = connect.createStatement();
+				ResultSet resultSet = statement.executeQuery(utility.getQuery("showFlights"))) {
 			while (resultSet.next()) {
-				FlightDetails info = new FlightDetails();
-				info.setFlightId(resultSet.getInt("flight_id"));
-				info.setFlightName(resultSet.getString("flight_name"));
-				info.setSource(resultSet.getString("source"));
-				info.setDestination(resultSet.getString("destination"));
-				info.setNoofseatsavailable(resultSet.getInt("seats_available"));
-				info.setArrivalDate(resultSet.getDate("arrival_date").toLocalDate());
-				info.setArrivalTime(resultSet.getTime("arrival_time").toLocalTime());
-				info.setDepartureDate(resultSet.getDate("departure_date").toLocalDate());
-				info.setDepartureTime(resultSet.getTime("departur_time").toLocalTime());
+				FlightDetails fDetails = new FlightDetails();
+				fDetails.setFlightId(resultSet.getInt("flight_id"));
+				fDetails.setFlightName(resultSet.getString("flight_name"));
+				fDetails.setSource(resultSet.getString("source"));
+				fDetails.setDestination(resultSet.getString("destination"));
+				fDetails.setNoofseatsavailable(resultSet.getInt("seats_available"));
+				fDetails.setArrivalDate(resultSet.getDate("arrival_date").toLocalDate());
+				fDetails.setArrivalTime(resultSet.getTime("arrival_time").toLocalTime());
+				fDetails.setDepartureDate(resultSet.getDate("departure_date").toLocalDate());
+				fDetails.setDepartureTime(resultSet.getTime("departur_time").toLocalTime());
 				
-				flightList.add(info);
+				listOfFlights.add(fDetails);
 			}
-			if (flightList.isEmpty()) {
+			if (listOfFlights.isEmpty()) {
 				throw new AirlineException("No Flight Present in the Airline");
 			} else {
-				return flightList;
+				return listOfFlights;
 			}
 		} catch (Exception e) {
 			throw new AirlineException(e.getMessage());
@@ -93,17 +93,17 @@ public class DaoImpl implements Dao {
 	@Override
 	public List<BookingStatus> bookingStatus() {
 		List<BookingStatus> bookingList = new LinkedList<BookingStatus>();
-		try (Connection conn = utility.getConnection();
-				Statement stmt = conn.createStatement();
-				ResultSet resultSet = stmt.executeQuery(utility.getQuery("showBooking"))) {
+		try (Connection connect = utility.getConnection();
+				Statement statement = connect.createStatement();
+				ResultSet resultSet = statement.executeQuery(utility.getQuery("showBooking"))) {
 			while (resultSet.next()) {
-				BookingStatus info = new BookingStatus();
-				info.setFlightId(resultSet.getInt("flight_id"));
-				info.setId(resultSet.getInt("id"));
-				info.setNoofseatsbooked(resultSet.getInt("no_of_seats_booked"));
-				info.setTicketId(resultSet.getInt("ticket_id"));
+				BookingStatus fDetails = new BookingStatus();
+				fDetails.setFlightId(resultSet.getInt("flight_id"));
+				fDetails.setId(resultSet.getInt("id"));
+				fDetails.setNoofseatsbooked(resultSet.getInt("no_of_seats_booked"));
+				fDetails.setTicketId(resultSet.getInt("ticket_id"));
 				
-				bookingList.add(info);
+				bookingList.add(fDetails);
 			}
 			if (bookingList.isEmpty()) {
 				throw new AirlineException("No Booking Status Present in the Airline");
@@ -121,10 +121,10 @@ public class DaoImpl implements Dao {
 	public List<FlightDetails> searchFlightByNameInUser(String flightname) {
 		FlightDetails flight = null;
 		List<FlightDetails> searchList = new ArrayList<FlightDetails>();
-		try (Connection conn = utility.getConnection();
-				PreparedStatement pstmt = conn.prepareStatement(utility.getQuery("searchFlightByName"));) {
-			pstmt.setString(1, flightname);
-			try (ResultSet resultSet = pstmt.executeQuery();) {
+		try (Connection connect = utility.getConnection();
+				PreparedStatement preparedStatement = connect.prepareStatement(utility.getQuery("searchFlightByName"));) {
+			preparedStatement.setString(1, flightname);
+			try (ResultSet resultSet = preparedStatement.executeQuery();) {
 				if (resultSet.next()) {
 					flight = new FlightDetails();
 					flight.setFlightId(resultSet.getInt("flight_Id"));
@@ -151,10 +151,10 @@ public class DaoImpl implements Dao {
 	public List<FlightDetails> searchFlightBySourceInUser(String source) {
 		FlightDetails flight = null;
 		List<FlightDetails> searchList = new ArrayList<FlightDetails>();
-		try (Connection conn = utility.getConnection();
-				PreparedStatement pstmt = conn.prepareStatement(utility.getQuery("searchFlightBySource"));) {
-			pstmt.setString(1, source);
-			try (ResultSet resultSet = pstmt.executeQuery();) {
+		try (Connection connect = utility.getConnection();
+				PreparedStatement preparedStatement = connect.prepareStatement(utility.getQuery("searchFlightBySource"));) {
+			preparedStatement.setString(1, source);
+			try (ResultSet resultSet = preparedStatement.executeQuery();) {
 				if (resultSet.next()) {
 					flight = new FlightDetails();
 					flight.setFlightId(resultSet.getInt("flight_Id"));
@@ -180,10 +180,10 @@ public class DaoImpl implements Dao {
 	public List<FlightDetails> searchFlightByDestinationInUser(String destination) {
 		FlightDetails flight = null;
 		List<FlightDetails> searchList = new ArrayList<FlightDetails>();
-		try (Connection conn = utility.getConnection();
-				PreparedStatement pstmt = conn.prepareStatement(utility.getQuery("searchFlightByDestination"));) {
-			pstmt.setString(1, destination);
-			try (ResultSet resultSet = pstmt.executeQuery();) {
+		try (Connection connect = utility.getConnection();
+				PreparedStatement preparedStatement = connect.prepareStatement(utility.getQuery("searchFlightByDestination"));) {
+			preparedStatement.setString(1, destination);
+			try (ResultSet resultSet = preparedStatement.executeQuery();) {
 				if (resultSet.next()) {
 					flight = new FlightDetails();
 					flight.setFlightId(resultSet.getInt("flight_Id"));
@@ -207,28 +207,28 @@ public class DaoImpl implements Dao {
 
 	@Override
 	public List<FlightDetails> getFlightDetailsInUser() {
-		List<FlightDetails> flightList = new LinkedList<FlightDetails>();
-		try (Connection conn = utility.getConnection();
-				Statement stmt = conn.createStatement();
-				ResultSet resultSet = stmt.executeQuery(utility.getQuery("showFlights"))) {
+		List<FlightDetails> listOfFlights = new LinkedList<FlightDetails>();
+		try (Connection connect = utility.getConnection();
+				Statement statement = connect.createStatement();
+				ResultSet resultSet = statement.executeQuery(utility.getQuery("showFlights"))) {
 			while (resultSet.next()) {
-				FlightDetails info = new FlightDetails();
-				info.setFlightId(resultSet.getInt("flight_id"));
-				info.setFlightName(resultSet.getString("flight_name"));
-				info.setSource(resultSet.getString("source"));
-				info.setDestination(resultSet.getString("destination"));
-				info.setNoofseatsavailable(resultSet.getInt("seats_available"));
-				info.setArrivalDate(resultSet.getDate("arrival_date").toLocalDate());
-				info.setArrivalTime(resultSet.getTime("arrival_time").toLocalTime());
-				info.setDepartureDate(resultSet.getDate("departure_date").toLocalDate());
-				info.setDepartureTime(resultSet.getTime("departur_time").toLocalTime());
+				FlightDetails fDetails = new FlightDetails();
+				fDetails.setFlightId(resultSet.getInt("flight_id"));
+				fDetails.setFlightName(resultSet.getString("flight_name"));
+				fDetails.setSource(resultSet.getString("source"));
+				fDetails.setDestination(resultSet.getString("destination"));
+				fDetails.setNoofseatsavailable(resultSet.getInt("seats_available"));
+				fDetails.setArrivalDate(resultSet.getDate("arrival_date").toLocalDate());
+				fDetails.setArrivalTime(resultSet.getTime("arrival_time").toLocalTime());
+				fDetails.setDepartureDate(resultSet.getDate("departure_date").toLocalDate());
+				fDetails.setDepartureTime(resultSet.getTime("departur_time").toLocalTime());
 
-				flightList.add(info);
+				listOfFlights.add(fDetails);
 			}
-			if (flightList.isEmpty()) {
+			if (listOfFlights.isEmpty()) {
 				throw new AirlineException("No Flight Present in the Airline");
 			} else {
-				return flightList;
+				return listOfFlights;
 			}
 		} catch (Exception e) {
 			throw new AirlineException(e.getMessage());
@@ -241,28 +241,28 @@ public class DaoImpl implements Dao {
 
 		try (
 
-			Connection conn = utility.getConnection();
-			PreparedStatement getFlightPstmt = conn.prepareStatement(utility.getQuery("getFlight"));){
+			Connection connect = utility.getConnection();
+			PreparedStatement preparedStatement = connect.prepareStatement(utility.getQuery("getFlight"));){
 
-			getFlightPstmt.setInt(1, status.getFlightId());
+			preparedStatement.setInt(1, status.getFlightId());
 			
 
-			try (ResultSet getReqSet = getFlightPstmt.executeQuery();) {
+			try (ResultSet resultSet = preparedStatement.executeQuery();) {
 				
-				while (getReqSet.next()) {
+				while (resultSet.next()) {
 					
-					int bookFlightId = getReqSet.getInt("flight_id");
+					int bookFlightId = resultSet.getInt("flight_id");
 					
 					if (status.getFlightId() == bookFlightId) {
 						
 
 						try (
 							Connection conne = utility.getConnection();
-							PreparedStatement getUserPstmt = conne.prepareStatement(utility.getQuery("getUser"));){
+							PreparedStatement preparedStatement1 = conne.prepareStatement(utility.getQuery("getUser"));){
 							
-							getUserPstmt.setInt(1, status.getId());
+							preparedStatement1.setInt(1, status.getId());
 							
-							try (ResultSet getUser = getUserPstmt.executeQuery();) {
+							try (ResultSet getUser = preparedStatement1.executeQuery();) {
 								
 								while (getUser.next()) {
 								
@@ -271,13 +271,13 @@ public class DaoImpl implements Dao {
 									if (userId == user) {
 										try (
 											Connection conn1 = utility.getConnection();
-											PreparedStatement getRequestPstmt = conn1.prepareStatement(utility.getQuery("requestBooked"));){
-											getRequestPstmt.setInt(1, status.getTicketId());
-											getRequestPstmt.setInt(2, status.getId());
-											getRequestPstmt.setInt(3, status.getFlightId());
-											getRequestPstmt.setInt(4, status.getNoofseatsbooked());
+											PreparedStatement preparedStatement2 = conn1.prepareStatement(utility.getQuery("requestBooked"));){
+											preparedStatement2.setInt(1, status.getTicketId());
+											preparedStatement2.setInt(2, status.getId());
+											preparedStatement2.setInt(3, status.getFlightId());
+											preparedStatement2.setInt(4, status.getNoofseatsbooked());
 											
-											getRequestPstmt.executeUpdate();
+											preparedStatement2.executeUpdate();
 											
 											return status;
 
@@ -305,10 +305,10 @@ public class DaoImpl implements Dao {
 	
 	@Override
 	public boolean cancelTicket(int userId) {
-		try (Connection conn = utility.getConnection();
-				PreparedStatement pstmt = conn.prepareStatement(utility.getQuery("cancelTicket"));) {
-			pstmt.setInt(1, userId);
-			int result = pstmt.executeUpdate();
+		try (Connection connect = utility.getConnection();
+				PreparedStatement preparedStatement = connect.prepareStatement(utility.getQuery("cancelTicket"));) {
+			preparedStatement.setInt(1, userId);
+			int result = preparedStatement.executeUpdate();
 			if (result != 0) {
 				return true;
 			}
@@ -325,20 +325,20 @@ public class DaoImpl implements Dao {
 	@Override
 	public boolean register(AirlineUsers airlineRegister) {
 		try {
-			Connection conn = utility.getConnection();
-			PreparedStatement pstmt = conn.prepareStatement(utility.getQuery("addUser"));
+			Connection connect = utility.getConnection();
+			PreparedStatement preparedStatement = connect.prepareStatement(utility.getQuery("addUser"));
 			
-			pstmt.setInt(1, airlineRegister.getId());
-			pstmt.setString(2, airlineRegister.getName());
-			pstmt.setString(3, airlineRegister.getEmailId());
-			pstmt.setLong(4, airlineRegister.getMobileNo());
-			pstmt.setString(5, airlineRegister.getPassword());
-			pstmt.setString(6, airlineRegister.getRole());
+			preparedStatement.setInt(1, airlineRegister.getId());
+			preparedStatement.setString(2, airlineRegister.getName());
+			preparedStatement.setString(3, airlineRegister.getEmailId());
+			preparedStatement.setLong(4, airlineRegister.getMobileNo());
+			preparedStatement.setString(5, airlineRegister.getPassword());
+			preparedStatement.setString(6, airlineRegister.getRole());
 
-			pstmt.executeUpdate();
+			preparedStatement.executeUpdate();
 
 		} catch (Exception e) {
-			throw new AirlineException("Can't Add New admin, as Admin Already Exists");
+			throw new AirlineException("Can't Add This User Already Exists");
 		}
 		return true;
 	}
@@ -348,12 +348,12 @@ public class DaoImpl implements Dao {
 		AirlineUsers user = new AirlineUsers();
 
 			try {
-				Connection conn = utility.getConnection();
-				PreparedStatement pstmt = conn.prepareStatement(utility.getQuery("userLogin"));
-				pstmt.setString(1, email);
-				pstmt.setString(2, password);
+				Connection connect = utility.getConnection();
+				PreparedStatement preparedStatement = connect.prepareStatement(utility.getQuery("userLogin"));
+				preparedStatement.setString(1, email);
+				preparedStatement.setString(2, password);
 				try  {
-					ResultSet rs = pstmt.executeQuery();
+					ResultSet rs = preparedStatement.executeQuery();
 					while (rs.next()) {
 						user.setEmailId(rs.getString("email_id"));
 						user.setPassword(rs.getString("password"));

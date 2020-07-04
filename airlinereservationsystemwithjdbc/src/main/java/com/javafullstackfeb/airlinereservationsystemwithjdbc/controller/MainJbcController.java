@@ -1,7 +1,7 @@
 package com.javafullstackfeb.airlinereservationsystemwithjdbc.controller;
 
 @SuppressWarnings("unused")
-public class MainController {
+public class MainJbcController {
 	public static void main (String[] args) throws Exception
 	{
 	SubAirlineController.arsController();
